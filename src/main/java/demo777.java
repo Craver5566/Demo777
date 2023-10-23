@@ -7,5 +7,6 @@ public class demo777 {
         System.out.println("martin test");
 
         System.out.println("martin feature 001");
+        System.out.println("martin feature 002");
     }
 }
