@@ -3,5 +3,7 @@ public class demo777 {
         System.out.println("first time");
         
         System.out.println("yuuki test");
+
+        System.out.println("martin test");
     }
 }
