@@ -9,5 +9,6 @@ public class demo777 {
         System.out.println("martin this is master");
         
         System.out.println("yuuki say hello");
+        System.out.println("yuuki say hello test");
     }
 }
