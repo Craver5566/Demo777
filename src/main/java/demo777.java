@@ -9,9 +9,7 @@ public class demo777 {
         System.out.println("martin this is master");
         
         System.out.println("yuuki say hello");
-        System.out.println("yuuki say hello 2");
 
-        System.out.println("martin feature 001");
         System.out.println("martin feature 002");
         System.out.println("martin feature 003");
     }
