@@ -5,5 +5,7 @@ public class demo777 {
         System.out.println("yuuki test");
 
         System.out.println("martin test");
+
+        System.out.println("martin this is master");
     }
 }
